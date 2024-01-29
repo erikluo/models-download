@@ -1,0 +1,6 @@
+https://civitai.com/api/download/models/276923
+  out=Stable-diffusion/sdxlUnstableDiffusers_v11.safetensors
+https://civitai.com/api/download/models/152309?type=Model&format=SafeTensor
+  out=lora/xl_more_art-full_v1.safetensors
+https://weights.replicate.delivery/default/TencentARC--PhotoMaker/photomaker-v1.bin
+  out=lora/photomaker-v1.bin
