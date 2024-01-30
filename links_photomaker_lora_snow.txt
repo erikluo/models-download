@@ -1,0 +1,6 @@
+https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0_0.9vae.safetensors?download=true
+  out=Stable-diffusion/sd_xl_base_1.0_0.9vae.safetensors
+https://civitai.com/api/download/models/267791?type=Model&format=SafeTensor
+  out=lora/Aether_Snow_v1_SDXL_LoRA.safetensors
+https://weights.replicate.delivery/default/TencentARC--PhotoMaker/photomaker-v1.bin
+  out=lora/photomaker-v1.bin
